@@ -1,0 +1,5 @@
+{
+  "name": "SmartPrep AI",
+  "description": "A smart interview preparation platform that generates personalized learning roadmaps using Gemini AI.",
+  "requestFramePermissions": []
+}
